@@ -1,0 +1,7 @@
+{
+  "name": "EjemploionicApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
